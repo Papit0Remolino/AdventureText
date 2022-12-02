@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6046c2ca58bc44f969768640a146c2, type: 3}
+  m_Name: S0.Introduction
+  m_EditorClassIdentifier: 
+  storyText: "benvinguts a la comunitat valencia.\n\xE9s un joc de tria la teva pr\xF2pia
+    aventura.\r\nA cada estat del joc, se't preguntar\xE0 a quin estat seg\xFCent
+    vols anar, per exemple l'1 o el 2 o el 3.\r\nprem la tecla 1 per comen\xE7ar."
+  nextStates:
+  - {fileID: 11400000, guid: de37d60687a679d48af594dd2eff50a7, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6046c2ca58bc44f969768640a146c2, type: 3}
+  m_Name: B2.CombatOptions
+  m_EditorClassIdentifier: 
+  storyText: "ens hem enfrontat als gu\xE0rdies.\r\nAra em trobo en una habitaci\xF3
+    amb dues portes.\r\nUna neta i una destartalada.\r\n1.Pas per la porta neta.\r\n2.Pas
+    per la porta atrotinada."
+  nextStates:
+  - {fileID: 11400000, guid: a3d8f27c9f8cb044097fbaa6f6f627e8, type: 2}
+  - {fileID: 11400000, guid: a9fd94dec6a3a274585f0bd3d31dd4f6, type: 2}
